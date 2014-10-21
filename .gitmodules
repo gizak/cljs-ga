@@ -1,0 +1,4 @@
+[submodule "build"]
+	path = build
+	url = https://github.com/gizak/cljs-ga.git
+	branch = gh-pages
